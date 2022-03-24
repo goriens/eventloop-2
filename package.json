@@ -1,0 +1,19 @@
+{
+  "name": "suhiab",
+  "version": "1.0.0",
+  "description": "This is event loop and Rest API assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "This",
+    "is",
+    "keyword"
+  ],
+  "author": "Suhaib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
